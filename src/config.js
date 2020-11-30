@@ -16,11 +16,11 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/snack.kangebi',
+      url: 'https://www.instagram.com/syehbi_tech',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/kang__ebi',
+      url: 'https://twitter.com/syehbi_tech',
     },
   ],
 

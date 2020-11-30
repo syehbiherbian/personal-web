@@ -5,9 +5,9 @@ module.exports = {
     title: 'Syehbi Herbian',
     description:
       'Syehbi Herbian is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
-    siteUrl: 'https://syehbi.dev', // No trailing slash allowed!
+    siteUrl: 'https://syehbiherbian.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@kang__ebi',
+    twitterUsername: '@syehbi_tech',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -19,13 +19,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'SyehbiHerbian',
+        short_name: 'SyehbiHerbian',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images',
       },
     },
     `gatsby-plugin-offline`,
@@ -151,7 +151,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-45666519-2',
+        trackingId: 'G-PJXN0JQXK7',
       },
     },
   ],
