@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Syehbi Herbian',
     description:
-      'Syehbi Herbian is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+      'Syehbi Herbian is a software engineer specializing in building website and apps. i experienced 5 years on profesional web development',
     siteUrl: 'https://syehbiherbian.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@syehbi_tech',
+    twitterUsername: '@syehbi25',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
